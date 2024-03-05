@@ -1,0 +1,5 @@
+<resources>
+    <string name="ficha_1">exercise1</string>
+    <string name="dadosAluno">Student info</string>
+    <string name="app_name">Name XPTO</string>
+</resources>
